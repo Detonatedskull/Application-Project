@@ -4,9 +4,6 @@
   Author : Kiran Pillai
   AIML Developer 
   https://www.linkedin.com/in/kiran-pillai-492523242/
-
-  Intended Audience: Google internship recruitement team 
-  for the post of Customer Engineering Intern, Google Cloud, Summer 2024 - Gurgaon
   
 
 ## About Project:
